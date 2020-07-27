@@ -1,0 +1,32 @@
+#header-nav{
+  background-color: red;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand .company-name{
+  color: white;
+  font-size: 35px;
+}
+
+.container{
+  width: 100%;
+  margin: 0;
+}
+
+#nav-list a{
+  color: white;
+  text-align: center;
+}
+
+#nav-list a:hover{
+  font-size: 30px;
+}
+
+p{
+  width: 10px;
+}
+.lorem{
+  background: Gray;
+  color: white;
+  height: 1000px;
+}
